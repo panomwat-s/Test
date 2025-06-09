@@ -91,3 +91,7 @@ body {
 .link-center a:hover {
   text-decoration: underline;
 }
+
+#message {
+  text-align: center;
+}
